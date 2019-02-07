@@ -1,0 +1,17 @@
+C:\DotNetBlueBadge\CodeFirstNewDabase\CodeFirstNewDabase\bin\Debug\CodeFirstNewDabase.exe.config
+C:\DotNetBlueBadge\CodeFirstNewDabase\CodeFirstNewDabase\bin\Debug\CodeFirstNewDabase.exe
+C:\DotNetBlueBadge\CodeFirstNewDabase\CodeFirstNewDabase\bin\Debug\CodeFirstNewDabase.pdb
+C:\DotNetBlueBadge\CodeFirstNewDabase\CodeFirstNewDabase\bin\Debug\EntityFramework.dll
+C:\DotNetBlueBadge\CodeFirstNewDabase\CodeFirstNewDabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\DotNetBlueBadge\CodeFirstNewDabase\CodeFirstNewDabase\bin\Debug\EntityFramework.xml
+C:\DotNetBlueBadge\CodeFirstNewDabase\CodeFirstNewDabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\DotNetBlueBadge\CodeFirstNewDabase\CodeFirstNewDabase\obj\Debug\CodeFirstNewDabase.csprojAssemblyReference.cache
+C:\DotNetBlueBadge\CodeFirstNewDabase\CodeFirstNewDabase\obj\Debug\CodeFirstNewDabase.csproj.CoreCompileInputs.cache
+C:\DotNetBlueBadge\CodeFirstNewDabase\CodeFirstNewDabase\obj\Debug\CodeFirstNewDabase.csproj.CopyComplete
+C:\DotNetBlueBadge\CodeFirstNewDabase\CodeFirstNewDabase\obj\Debug\CodeFirstNewDabase.exe
+C:\DotNetBlueBadge\CodeFirstNewDabase\CodeFirstNewDabase\obj\Debug\CodeFirstNewDabase.pdb
+C:\DotNetBlueBadge\CodeFirstNewDabase\CodeFirstNewDabase\obj\Debug\CodeFirstNewDabase.Migrations.InitialCreate.resources
+C:\DotNetBlueBadge\CodeFirstNewDabase\CodeFirstNewDabase\obj\Debug\CodeFirstNewDabase.csproj.GenerateResource.cache
+C:\DotNetBlueBadge\CodeFirstNewDabase\CodeFirstNewDabase\obj\Debug\CodeFirstNewDabase.Migrations.A.resources
+C:\DotNetBlueBadge\CodeFirstNewDabase\CodeFirstNewDabase\obj\Debug\CodeFirstNewDabase.Migrations.B.resources
+C:\DotNetBlueBadge\CodeFirstNewDabase\CodeFirstNewDabase\obj\Debug\CodeFirstNewDabase.Migrations.AB.resources
